@@ -33,11 +33,7 @@ This is annoying This is annoying This is annoying This is annoying This is anno
     </div>
     <footer class="footer">
       <div class="links"></div>
-      </a>
-    </footer>
-  </body>
-</html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
