@@ -12,7 +12,6 @@
   <body>
      <audio id="annoying-music" autoplay loop>
     <source src=" type=">
-    Your browser does not support the audio element.
   </audio>
   <script src="script.js"></script>
     <div class="wrapper">
