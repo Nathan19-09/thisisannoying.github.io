@@ -1,7 +1,7 @@
 :root {
-  --color-bg: #009999;
-  --color-text-main: #f8f8ff;
-  --color-primary: #00999;
+  --color-bg: (#009999);
+  --color-text-main: (#f8f8ff);
+  --color-primary: (#00999);
   --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
@@ -40,12 +40,12 @@
   height: 2.75rem;
   align-items: center;
   cursor: pointer;
-  background: #009999;
-  border: 1px solid #009999;
+  background: (#009999);
+  border: 1px solid (#009999);
   box-sizing: border-box;
   border-radius: 4px;
   text-decoration: none;
-  color: #009999;
+  color: (#009999);
   white-space: nowrap;
   margin-left: auto;
 }
@@ -53,7 +53,7 @@
   margin-right: 0.5rem;
 }
 .btn--remix:hover {
-  background-color: #009999;
+  background-color: (#009999);
 }
 
 /* Navigation grid */
@@ -64,7 +64,7 @@
   padding: 1rem 0 0.75rem 0;
   width: 100%;
   flex-wrap: wrap;
-  border-top: 4px solid #009999;
+  border-top: 4px solid (#009999);
 }
 
 .footer a:not(.btn--remix):link,
@@ -73,7 +73,7 @@
   font-style:  HK Grotesk;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #009999;
+  color: (#009999);
   text-decoration: none;
   border-style: none;
 }
